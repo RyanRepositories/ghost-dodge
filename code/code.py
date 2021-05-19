@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Created by Ryan Chung Kam Chung
+# Created by Ryan C
 # Created in January 2021
 # Final version of Ghost Dodge!
 
