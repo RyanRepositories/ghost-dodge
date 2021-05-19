@@ -1,5 +1,7 @@
 # ghost-dodge
 
+This is a game made in CircuitPython, for the Pybadge micro-controller as part of the ICS3U Computer Science course.
+
 All needed assets are here: https://drive.google.com/drive/folders/1OnE8yAWSUj6ZgOTWDFJgPblmFLzBEb_L?usp=sharing
 
 ### Credits:
