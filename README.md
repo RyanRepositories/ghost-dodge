@@ -1,6 +1,7 @@
 # ghost-dodge
 
-This is a game made in CircuitPython, for the Pybadge micro-controller as part of the ICS3U Computer Science course.
+This is a game made in CircuitPython, for the Pybadge micro-controller as part of the ICS3U Computer Science course. <br \>
+A tutorial for the project is here: https://sites.google.com/mths.ca/ics3u-learningguide/home. It includes the PyBadge setup, code (in the form of 13 lessons) and explanations.
 
 All needed assets are here: https://drive.google.com/drive/folders/1OnE8yAWSUj6ZgOTWDFJgPblmFLzBEb_L?usp=sharing
 
