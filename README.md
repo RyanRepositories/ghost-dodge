@@ -2,7 +2,7 @@
 
 All needed assets are here: https://drive.google.com/drive/folders/1OnE8yAWSUj6ZgOTWDFJgPblmFLzBEb_L?usp=sharing
 
-Credits:
+### Credits:
 ghost_hit.wav and splash_effect.wav come from: https://www.youtube.com/watch?v=oZI4QhyO5ew
 
 sword_swoosh.wav comes from: https://www.dropbox.com/sh/br37hc5hmgcphj2/AAAiL0If5TSX89foQ5qycTpoa?dl=0&preview=2.+Whoosh+Swoosh.wav
